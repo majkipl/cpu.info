@@ -1,5 +1,7 @@
 # Getting Started
 
+The application displays CPU usage statistics broken down by core.
+
 To run the application, follow the steps below.
 
 ## Requirements
